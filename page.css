@@ -1,0 +1,89 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.one{
+    position: absolute;            
+}
+.two{
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.three{
+    position: absolute;
+    padding-left: 60px;
+    padding-top: 170px;
+    color: white;
+    font-size: 45px;  
+}
+.four{
+    position: absolute;
+    padding-left: 60px;
+    padding-top: 280px;
+    color: white;
+    font-size: 20px;
+}
+.five{
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 360px;
+}
+.kal{
+    width: 120px;
+    height: 40px;
+    background-color:goldenrod;
+    border-radius: 8px;
+}
+.six{
+    position: absolute;
+    padding-left: 1070px;
+    padding-top: 35px;
+}
+.yan{
+    width: 150px;
+    height: 40px;
+    background-color:goldenrod;
+    border-radius: 8px;
+    font-size: medium;
+}
+.seven{
+    position: absolute;
+    padding-left: 970px;
+    padding-top: 42px; 
+    font-size: 20px;
+    color: white;
+}
+.eight{
+    position: absolute;
+    padding-left: 880px;
+    padding-top: 42px; 
+    font-size: 20px;
+    color: white;
+}
+.nine{
+    position: absolute;
+    padding-left: 790px;
+    padding-top: 42px; 
+    font-size: 20px;
+    color: white;
+}
+.ten{
+    position: absolute;
+    padding-left: 680px;
+    padding-top: 42px; 
+    font-size: 20px;
+    color: white;
+}
+.eleven{
+position: absolute;
+    padding-left: 600px;
+    padding-top: 42px; 
+    font-size: 20px;
+    color: gold;}
+.twelve{
+    position: absolute;
+    padding-left: 550px;
+    padding-top: 150px; 
+}    
+@media (width < 670px)

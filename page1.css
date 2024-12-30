@@ -1,0 +1,147 @@
+body{
+    padding: 0px;
+           margin: 0px;
+           background-image: url("back3.jpg");
+           background-repeat: no-repeat;
+           background-size: cover;
+           width: 100%;
+}
+.a{
+    position: absolute;
+    filter: brightness(70%);
+}
+.b{
+    position: absolute;
+    padding-left: 40px;
+    padding-top: 25px;
+    filter: brightness(1000%);
+}
+.c{
+    position: absolute;
+    padding-left: 90px;
+    padding-top: 80px;
+    color: white;
+    font-size: 25px;
+}
+.d{
+    position: absolute;
+    padding-left: 90px;
+    padding-top: 110px;
+    color: white;
+    font-size: 40px;
+}
+.e{
+    position: absolute;
+    padding-left: 90px;
+    padding-top: 160px;
+    color: white;
+    font-size: 30px;
+}
+.f{
+    position: absolute;
+    padding-left: 90px;
+    padding-top: 200px;
+    color: white;
+    font-size: 17px;
+}
+.g{
+    position: absolute;
+    padding-left: 90px;
+    padding-top: 350px;
+         
+}
+.z{
+    background-color: aqua;
+width: 120px;
+height: 40px;
+border-radius: 10px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 15px;
+}
+.h{
+    position: absolute;
+    padding-left: 1110px;
+    padding-top: 50px;
+    color:aqua;
+    font-size: 20px;
+}
+.i{
+    position: absolute;
+    padding-left: 1000px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+}
+.j{
+    position: absolute;
+    padding-left: 910px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+}
+.k{
+    position: absolute;
+    padding-left: 820px;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+}
+.l{
+    position: absolute;
+    padding-left: 680px;
+    padding-top: 50px;
+    color: aqua;
+    font-size: 20px;
+}
+.m{
+    position: absolute;
+    padding-left: 590px;
+    padding-top: 50px;
+    color:aqua;
+    font-size: 20px;
+}
+.n{
+    position: absolute;
+    padding-left:95px ;
+    padding-top: 300px;
+    font-size: 30px;
+}
+.o{
+    position: absolute;
+    padding-left:150px ;
+    padding-top: 300px;
+    font-size: 30px;
+}
+.p{
+    position: absolute;
+    padding-left:205px ;
+    padding-top: 300px;
+    font-size: 30px;
+}
+.q{
+    position: absolute;
+    padding-left:270px ;
+    padding-top: 300px;
+    font-size: 30px; 
+}
+nav ul{
+    text-align: right;
+    font-size: 20px;
+    padding-right: 70px;
+    padding-top: 10px;
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    display: inline-block;
+    
+} 
+.one{
+    padding-right: 300px;
+    filter: brightness(1000%);
+}
